@@ -1,4 +1,4 @@
-![image](https://github.com/pavangoudk/azure-aks-kubernetes-masterclass/assets/57316867/1232928c-7b87-4e48-ac77-455b6be6f49b)# Kubernetes  - PODs
+# Kubernetes  - PODs
 
 ## Step-01: PODs Introduction
 - What is a POD ?
