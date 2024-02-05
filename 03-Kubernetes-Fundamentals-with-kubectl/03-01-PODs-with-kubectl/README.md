@@ -1,8 +1,18 @@
-# Kubernetes  - PODs
+![image](https://github.com/pavangoudk/azure-aks-kubernetes-masterclass/assets/57316867/1232928c-7b87-4e48-ac77-455b6be6f49b)# Kubernetes  - PODs
 
 ## Step-01: PODs Introduction
 - What is a POD ?
+   - In Kubernetes, a Pod is the smallest and simplest unit. It represents a single instance of a running process in a cluster.
 - What is a Multi-Container POD?
+   - A multi-container pod is a pod in Kubernetes that can run multiple containers together as a single unit.
+   - A Pod may contain one or more containers, tightly coupled and sharing the same network namespace, storage, and other resources.
+- Why Pods?
+   - Grouping Containers: Containers within a Pod share the same network, allowing them to communicate easily.
+   - Shared Storage: Pods have shared storage volumes that can be mounted by containers within the Pod.
+   - Scaling Unit: Pods are the basic unit for scaling applications in Kubernetes.
+
+
+
 
 ## Step-02: PODs Demo
 ### Get Worker Nodes Status
